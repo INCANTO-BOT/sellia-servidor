@@ -1,0 +1,13 @@
+{
+  "formatVersion": 1,
+  "passTypeIdentifier": "pass.com.incanto.fidelizacion",
+  "teamIdentifier": "SE_REEMPLAZA",
+  "organizationName": "Sellia",
+  "description": "Tarjeta de sellos",
+  "serialNumber": "SE_REEMPLAZA",
+  "backgroundColor": "rgb(21,18,48)",
+  "foregroundColor": "rgb(255,255,255)",
+  "labelColor": "rgb(249,168,212)",
+  "logoText": "Sellia",
+  "storeCard": {}
+}
